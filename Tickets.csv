@@ -1,0 +1,3 @@
+name;coordinates_x;coordinates_y;price;comment;type;person_birthday;person_height;person_weight;person_pasport_id
+Ticket_1;10;50.0;2000.0;400;VIP;19-09-2003;1.8;70;332
+Ticket_2;15;80.0;1000.0;800;USUAL;30-09-1990;2.0;100;222
